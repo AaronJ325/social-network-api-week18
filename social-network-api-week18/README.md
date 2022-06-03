@@ -1,0 +1,1 @@
+This week's task was to build an API for a social network so friends and family can share things with each other and create friends lists and such.
